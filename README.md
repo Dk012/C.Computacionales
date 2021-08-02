@@ -1,37 +1,31 @@
 ## Welcome to GitHub Pages
+<html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/Dk012/C.Computacionales/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<title> LIC.ADMINISTRACIÓN </title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body bgcolor="salmon">
+<h1> Ciencias Computacionales II </h1>
+<p>  "Esta materia nos muestra nuevas tecnicas que en un futuro nos puede servir para nuestro trabajo" </p>
+<center><img src= "c.computacion.jpg">
+</center>
+</img>
+<h1><marquee> En ciencias computacionales se aprende razonamiento lógico, pensamiento algorítmico y solución variada de problemas que se lleguen a presentar"
+</h1>
+</marquee>
+<center>
 
-### Markdown
+<video src="mar.mp4">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</center>
 
-```markdown
-Syntax highlighted code block
+</video>
 
-# Header 1
-## Header 2
-### Header 3
+<br><audio src="The Nights.mp3"preload="none"controls>
+</audio>
+</br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dk012/C.Computacionales/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
+ 
