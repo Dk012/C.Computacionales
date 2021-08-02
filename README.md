@@ -6,7 +6,6 @@ You can use the [editor on GitHub](https://github.com/Dk012/C.Computacionales/ed
 
 <title> LIC.ADMINISTRACIÓN </title>
 </head>
-
 <body bgcolor="salmon">
 <h1> Ciencias Computacionales II </h1>
 <p>  "Esta materia nos muestra nuevas tecnicas que en un futuro nos puede servir para nuestro trabajo" </p>
